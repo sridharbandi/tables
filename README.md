@@ -1,14 +1,14 @@
-## Simple web application (Responsive Table) developed with ReactJS and [Material-UI](https://material-ui-next.com/) to practice [Selenium](https://www.seleniumhq.org/)
+## Simple web application (Paginated Table) developed with ReactJS and [Material-UI](https://material-ui-next.com/) to practice [Selenium](https://www.seleniumhq.org/)
 
 ***Created by Sridhar Bandi with [create-react-app](https://github.com/facebook/create-react-app)***
 
 ### [Live Demo](https://sridharbandi.github.io/tables/) 
 
-### Screenshots
-![Table](/images/login.png)
+### Desktop Screenshots
+![Table](/images/desktop.png)
 
 ### Mobile Screenshots
-![Table](/images/mobilelogin.png)
+![Table](/images/mobile.png)
 
 > Note: Bits and pieces are used from [https://material-ui-next.com/demos/tables/](https://material-ui-next.com/demos/tables/) 
 
